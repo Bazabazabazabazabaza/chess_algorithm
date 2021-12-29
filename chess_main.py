@@ -22,7 +22,7 @@ board=chess.Board()
 #print(list(board.legal_moves)[0])
 #print()
 #print()
-#print()
+print()
 
 
 def interpret_result(result1,board):
